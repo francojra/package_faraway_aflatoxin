@@ -22,7 +22,7 @@ View(aflatoxin)
 # Gráfico ----------------------------------------------------------------------------------------------------------------------------------
 
 library(ggplot2) # Pacote para produzir os gráficos
-library(viridis)
+library(viridis) # Pacote para paleta de cores viridis
 
 a1 <- ggplot(aflatoxin, aes(x = dose, y = tumor, color = dose)) +
   geom_point(size = 5) +
