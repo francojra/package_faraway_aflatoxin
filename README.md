@@ -8,5 +8,5 @@
 2. Carregar banco de dados
 - Sobre o banco de dados
 3. Visualizando o banco de dados selecionado;
-4. Gráfico
+4. Gráficos
 - Gráficos juntos.
