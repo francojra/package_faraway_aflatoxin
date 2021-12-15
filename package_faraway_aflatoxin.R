@@ -19,7 +19,7 @@ faraway::aflatoxin
 
 View(aflatoxin)
 
-# Gráfico ----------------------------------------------------------------------------------------------------------------------------------
+# Gráficos ----------------------------------------------------------------------------------------------------------------------------------
 
 library(ggplot2) # Pacote para produzir os gráficos
 library(viridis) # Pacote para paleta de cores viridis
